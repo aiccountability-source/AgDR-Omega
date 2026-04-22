@@ -1,3 +1,13 @@
+# AgDR-Omega (Archived - Experimental)
+
+This was an experimental hypothesis. It is not maintained.
+
+For the active AgDR standard and implementations, see:
+
+- [AgDR Core](https://github.com/aiccountability-source/AgDR)
+- [AgDR-Phoenix](https://github.com/aiccountability-source/AgDR-Phoenix)
+- [AgDR-Mantle](https://github.com/aiccountability-source/AgDR-Mantle)
+
 <div align="center">
 
 # Ω AgDR-Omega
@@ -7,14 +17,12 @@
 <br>
 
 [![Status](https://img.shields.io/badge/Status-Experimental%20Hypothesis-blueviolet?style=for-the-badge)](https://github.com/aiccountability-source/AgDR-Omega)
-[![Environment](https://img.shields.io/badge/Environment-Simulated-informational?style=for-the-badge)](https://github.com/aiccountability-source/AgDR-Omega)
-[![AI Platform](https://img.shields.io/badge/AI%20Platform-Grok%20v4.1%20(xAI)-black?style=for-the-badge&logo=x&logoColor=white)](https://x.ai)
-[![Working Model](https://img.shields.io/badge/Latest%20Working%20Model-AgDR--FS%20v2.1-success?style=for-the-badge)](https://github.com/aiccountability-source/AgDR-FSv2.1)
+[![Environment](https://img.shields.io/badge/Environment-Simulated-informational?style=for-the-badge)](https://github.com/aiccountability-sourc
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue?style=for-the-badge)](LICENSE)
 
 <br>
 
-*An experimental hypothesis for open discussion — developed in a simulated environment through structured dialogue with Grok v4.1 (xAI).*
+*An experimental hypothesis for open discussion*
 
 ---
 
@@ -69,7 +77,7 @@ AgDR-Omega builds on an established lineage of open standards and implementation
 
 ## 🌀 The Omega Hypothesis
 
-The central hypothesis of AgDR-Omega, as explored through Grok v4.1 simulation, asks:
+The central hypothesis of AgDR-Omega asks:
 
 > ***What happens when the AgDR atomic accountability layer becomes the native substrate for model reasoning itself — not an external wrapper, but the internal architecture through which an AI agent thinks?***
 
